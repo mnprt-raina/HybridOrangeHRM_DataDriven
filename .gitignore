@@ -1,0 +1,20 @@
+#ignore target folder
+/target/*
+
+#ignore test-output folder
+/test-output/*
+
+#ignore .settings folder
+/.settings/*
+
+#ignore .classpath
+*.classpath
+
+#ignore xml files
+*.xml
+
+#ignore html file
+*.html
+
+#ignore project file
+*.project
