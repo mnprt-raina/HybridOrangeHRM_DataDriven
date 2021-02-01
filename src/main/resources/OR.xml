@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<menu>
+<username>//input[@id = 'txtUsername']</username>
+<password>//input[@id = 'txtPassword']</password>
+<login>//input[@id = 'btnLogin']</login>
+</menu>
